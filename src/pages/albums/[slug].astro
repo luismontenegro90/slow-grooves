@@ -1,0 +1,8 @@
+---
+import AlbumPage from '../../components/AlbumPage.astro';
+import records from '../../data/records.json';
+import {albumSlug} from '../../lib/album-slug.mjs';
+export function getStaticPaths(){return records.map(record=>({params:{slug:albumSlug(record)},props:{record}}));}
+const {record}=Astro.props;
+---
+<AlbumPage record={record}/>

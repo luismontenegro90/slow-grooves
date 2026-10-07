@@ -1,0 +1,72 @@
+---
+import '../styles/global.css';
+import Motion from '../components/Motion.astro';
+import records from '../data/records.json';
+import {albumSlug} from '../lib/album-slug.mjs';
+const builtSlugs=records.map(albumSlug);
+const projectId = import.meta.env.PUBLIC_SANITY_PROJECT_ID || 'ovzh9fkm';
+const dataset = import.meta.env.PUBLIC_SANITY_DATASET || 'production';
+---
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>Slow Grooves — Music worth sitting with</title><meta name="description" content="An ode to the ritual of vinyl. Slow down, drop the needle, and explore twenty records worth sitting with."/><link rel="icon" href="/favicon.svg"/><link rel="preload" as="image" href="/vinyl-hero-poster.jpg"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/><link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet"/></head>
+<body>
+<header><a class="brand" href="#">slow grooves<span class="brand-dot">®</span></a><nav aria-label="Main navigation"><a href="#ritual">The ritual</a><a href="#collection">The collection <span id="nav-count">{records.length} / 20</span></a></nav><span class="header-note">A personal listening journal</span></header>
+<main>
+<section class="hero hero-video" aria-labelledby="hero-title">
+<video class="hero-background" id="hero-video" poster="/vinyl-hero-poster.jpg" autoplay muted loop playsinline preload="none" aria-hidden="true" tabindex="-1"><source data-src="/vinyl-hero.mp4" type="video/mp4"/></video>
+<div class="hero-overlay" aria-hidden="true"></div>
+<div class="hero-content-wrap"><div class="hero-copy"><p class="eyebrow">LESS SCROLLING. MORE LISTENING.</p><h1 id="hero-title">Some music<br/>deserves your<br/><span>whole attention.</span></h1><p class="intro">Take a record out of its sleeve. Lower the needle. Let the room fill up. A small ritual that makes music feel like something again.</p><a class="button" href="#collection">Explore the records <span>TOP 20</span></a><div class="hero-bottom"><span>ANALOG SOUND.<br/>PRESENT MOMENT.</span><span>33⅓ RPM<br/>NO SKIP BUTTON.</span></div></div></div>
+<div class="hero-video-caption"><span>SIDE A / THE ART OF SLOWING DOWN</span><button id="hero-video-toggle" type="button" hidden>Play background video</button></div>
+</section>
+<div class="ticker" aria-label="Drop the needle. Stay for the whole side. Make room for music."><div class="marquee-track" aria-hidden="true"><div class="marquee-group"><span>DROP THE NEEDLE</span><span>✳</span><span>STAY FOR THE WHOLE SIDE</span><span>✳</span><span>MAKE ROOM FOR MUSIC</span><span>✳</span></div><div class="marquee-group"><span>DROP THE NEEDLE</span><span>✳</span><span>STAY FOR THE WHOLE SIDE</span><span>✳</span><span>MAKE ROOM FOR MUSIC</span><span>✳</span></div><div class="marquee-group"><span>DROP THE NEEDLE</span><span>✳</span><span>STAY FOR THE WHOLE SIDE</span><span>✳</span><span>MAKE ROOM FOR MUSIC</span><span>✳</span></div><div class="marquee-group"><span>DROP THE NEEDLE</span><span>✳</span><span>STAY FOR THE WHOLE SIDE</span><span>✳</span><span>MAKE ROOM FOR MUSIC</span><span>✳</span></div></div><button class="marquee-toggle" type="button" aria-label="Pause marquee">Pause</button></div>
+<section id="ritual" class="ritual"><p class="eyebrow">01 / THE RITUAL</p><div><h2>It starts before<br/>the first note.</h2><p>There’s a moment between choosing a record and hearing it. The weight of the sleeve. The artwork in your hands. The quiet anticipation as the needle finds its groove.</p><p>Vinyl asks a little more of you. In return, it gives you a reason to stop multitasking. To hear the songs in order. To notice a bass line, a breath, a silence you’ve passed over before.</p><p class="ritual-emphasis">One record. Two sides.<br/>Nowhere else to be.</p></div><aside><span class="large-number">33<span>⅓</span></span><p>Revolutions per minute.<br/>A different pace of life.</p></aside><div class="ritual-scenes">
+<article class="ritual-scene"><img src="/ritual-choose.webp" alt="A person choosing a record from their vinyl collection" width="1600" height="1067" loading="lazy"/><div><span class="step-number">01</span><h3>Find your mood.</h3><p>Browse the sleeves. Choose the record that feels right for tonight.</p></div></article>
+<article class="ritual-scene"><img src="/ritual-play.webp" alt="A person carefully placing a vinyl record on a turntable" width="1600" height="1067" loading="lazy"/><div><span class="step-number">02</span><h3>Make the first move.</h3><p>Set it on the turntable. Lower the needle. Let the first note settle in.</p></div></article>
+<article class="ritual-scene"><img src="/ritual-listen.webp" alt="A person relaxing on a sofa in dim light with a glass of whisky while listening to vinyl" width="1600" height="1067" loading="lazy"/><div><span class="step-number">03</span><h3>Settle into the sound.</h3><p>Dim the lights. Pour a whisky. Get comfortable and let the whole side play.</p></div></article>
+</div></section>
+<section id="collection" class="collection"><div class="section-top"><div><p class="eyebrow">02 / THE COLLECTION</p><h2>The records I<br/><span>keep coming back to.</span></h2></div><p>Albums to spend time with.<br/>From the first groove to the last.</p></div><div class="collection-controls"><span id="collection-label">THE PERSONAL COLLECTION</span><div class="filter-wrap"><label for="genre">Browse by genre</label><select id="genre"><option value="all">All records</option></select></div><span id="record-count">{records.length} / 20 RECORDS</span></div><p class="preview-note" id="preview-note">{records.length < 20 ? `${records.length} favorites so far. A collection growing toward twenty.` : 'Twenty favorites. Always worth another listen.'}</p><div class="record-grid" id="record-grid">{records.map(r => <a class="record-card" href={`/albums/${albumSlug(r)}/`} data-rank={r.rank} aria-label={`Read about ${r.title} by ${r.artist}`}><div class="cover"><img src={r.cover} alt={`${r.title} album cover`} loading="lazy" width="600" height="600"/><span class="rank">{String(r.rank).padStart(2,'0')}</span><span class="view-record">Explore album +</span></div><div class="record-meta"><span>{r.artist}</span><span>{r.year}</span></div><h3>{r.title}</h3><p>{r.genre}</p></a>)}</div><p id="collection-status" role="status" hidden></p><div class="collection-end"><span>THE BEST RECORD IS THE ONE YOU COME BACK TO.</span><a href="#">Back to the top ↑</a></div></section>
+<section class="outro"><p class="eyebrow">ONE LAST THING</p><h2>Turn it over.<br/><span>Stay a little longer.</span></h2><p>Good music has a way of making ordinary moments feel worth remembering. Give it the time.</p></section>
+</main><footer><a class="brand" href="#">slow grooves®</a><span>A love letter to listening.</span><span>PLAY IT ALL THE WAY THROUGH.</span></footer>
+<script>
+const marquee = document.querySelector<HTMLElement>('.ticker');
+const marqueeToggle = document.querySelector<HTMLButtonElement>('.marquee-toggle');
+marqueeToggle?.addEventListener('click', () => {
+  const paused = marquee?.classList.toggle('is-paused');
+  marqueeToggle.textContent = paused ? 'Play' : 'Pause';
+  marqueeToggle.setAttribute('aria-label', paused ? 'Play marquee' : 'Pause marquee');
+});
+const video = document.querySelector<HTMLVideoElement>('#hero-video');
+const toggle = document.querySelector<HTMLButtonElement>('#hero-video-toggle');
+if (video && toggle) {
+  const motion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const loadVideo = () => {
+    const source = video.querySelector('source');
+    if (source && !source.hasAttribute('src')) {
+      source.src = source.dataset.src || '';
+      video.load();
+    }
+  };
+  const syncButton = () => { toggle.textContent = video.paused ? 'Play background video' : 'Pause background video'; };
+  const playVideo = () => { loadVideo(); video.play().catch(syncButton); };
+  toggle.hidden = false;
+  toggle.addEventListener('click', () => { if (video.paused) playVideo(); else video.pause(); });
+  video.addEventListener('play', syncButton);
+  video.addEventListener('pause', syncButton);
+  video.addEventListener('error', () => { toggle.hidden = true; });
+  motion.addEventListener('change', () => { if (motion.matches) video.pause(); else playVideo(); });
+  if (!motion.matches && !(navigator as Navigator & {connection?: {saveData?: boolean}}).connection?.saveData) playVideo();
+}
+</script>
+<script define:vars={{records,projectId,dataset,builtSlugs}}>
+const grid=document.querySelector('#record-grid');const select=document.querySelector('#genre');let collection=records;
+const slugFor=r=>r.slug||`${r.artist}-${r.title}`.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+const albumHref=r=>builtSlugs.includes(slugFor(r))?`/albums/${slugFor(r)}/`:`/albums/?id=${encodeURIComponent(r._id)}`;
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const imageUrl=s=>{try{const u=new URL(s);return u.protocol==='https:'?u.href:'';}catch{return '';}};
+function render(){const filtered=collection.filter(r=>select.value==='all'||r.genre===select.value);grid.innerHTML=filtered.map(r=>`<a class="record-card" href="${esc(albumHref(r))}" data-rank="${r.rank}" aria-label="Read about ${esc(r.title)} by ${esc(r.artist)}"><div class="cover"><img src="${esc(imageUrl(r.cover))}" alt="${esc(r.title)} album cover" loading="lazy" width="600" height="600"/><span class="rank">${String(r.rank).padStart(2,'0')}</span><span class="view-record">Explore album +</span></div><div class="record-meta"><span>${esc(r.artist)}</span><span>${esc(r.year)}</span></div><h3>${esc(r.title)}</h3><p>${esc(r.genre)}</p></a>`).join('');document.querySelector('#record-count').textContent=select.value==='all' ? collection.length+' / 20 RECORDS' : filtered.length+' OF '+collection.length+' RECORDS';}
+function setRecords(items){collection=items;document.querySelector('#nav-count').textContent=items.length+' / 20';select.innerHTML='<option value="all">All records</option>'+[...new Set(items.map(r=>r.genre).filter(Boolean))].sort().map(g=>`<option value="${esc(g)}">${esc(g)}</option>`).join('');render();}
+select.addEventListener('change',render);
+setRecords(collection);
+if(projectId){const query='*[_type == "vinyl" && !(_id in path("drafts.**"))] | order(rank asc)[0...20]{_id,"slug":slug.current,rank,title,artist,year,genre,note,favoriteTrack,spotifyUrl,tracklist,tracklistEdition,tracklistSource,vinylEdition,"vinylPhotos":vinylPhotos[]{"url":asset->url,alt,credit,sourceUrl},"cover":cover.asset->url}';fetch(`https://${encodeURIComponent(projectId)}.api.sanity.io/v2026-06-09/data/query/${encodeURIComponent(dataset)}?query=${encodeURIComponent(query)}&perspective=published`).then(r=>{if(!r.ok)throw Error('CMS unavailable');return r.json();}).then(data=>{if(!Array.isArray(data.result))throw Error('Invalid CMS response');setRecords(data.result);document.querySelector('#collection-label').textContent='THE PERSONAL COLLECTION';document.querySelector('#preview-note').textContent=data.result.length<20 ? `${data.result.length} favorites so far. A collection growing toward twenty.` : 'Twenty favorites. Always worth another listen.';if(!data.result.length){const s=document.querySelector('#collection-status');s.hidden=false;s.textContent='The collection is being curated. Come back soon for the first records.';}}).catch(()=>{const s=document.querySelector('#collection-status');s.hidden=false;s.textContent='The latest collection could not load. Showing the saved collection.';});}
+</script>
+<Motion/></body></html>

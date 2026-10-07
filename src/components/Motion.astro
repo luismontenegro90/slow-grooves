@@ -1,0 +1,5 @@
+<script>
+import {initMotion} from '../lib/motion.mjs';
+const cleanup=initMotion();
+if(import.meta.hot)import.meta.hot.dispose(cleanup);
+</script>

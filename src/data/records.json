@@ -1,0 +1,2526 @@
+[
+  {
+    "_id": "vinyl-01",
+    "artist": "The Weeknd",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/a491d1a82040c09484317aa925feb3b0e5c853bb-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "R&B/Soul",
+    "note": "Set aside time for the full sequence, from widescreen synth-pop to quieter, reflective moments.",
+    "rank": 1,
+    "slug": "the-weeknd-hurry-up-tomorrow",
+    "spotifyUrl": "https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM",
+    "title": "Hurry Up Tomorrow",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "5:08",
+        "position": "1",
+        "title": "Wake Me Up"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:44",
+        "position": "2",
+        "title": "Cry For Me"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "0:12",
+        "position": "3",
+        "title": "I Can't Fucking Sing"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "5:01",
+        "position": "4",
+        "title": "São Paulo"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "0:22",
+        "position": "5",
+        "title": "Until We're Skin & Bones"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:52",
+        "position": "6",
+        "title": "Baptized In Fear"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "3:54",
+        "position": "7",
+        "title": "Open Hearts"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "1:36",
+        "position": "8",
+        "title": "Opening Night"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "4:51",
+        "position": "9",
+        "title": "Reflections Laughing"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "5:01",
+        "position": "10",
+        "title": "Enjoy The Show"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "5:54",
+        "position": "11",
+        "title": "Given Up On Me"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "3:08",
+        "position": "12",
+        "title": "I Can't Wait To Get There"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "4:16",
+        "position": "13",
+        "title": "Timeless"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "duration": "4:37",
+        "position": "14",
+        "title": "Niagara Falls"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "duration": "4:13",
+        "position": "15",
+        "title": "Take Me Back To LA"
+      },
+      {
+        "_key": "track-16",
+        "_type": "track",
+        "duration": "3:45",
+        "position": "16",
+        "title": "Big Sleep"
+      },
+      {
+        "_key": "track-17",
+        "_type": "track",
+        "duration": "3:36",
+        "position": "17",
+        "title": "Give Me Mercy"
+      },
+      {
+        "_key": "track-18",
+        "_type": "track",
+        "duration": "3:08",
+        "position": "18",
+        "title": "Drive"
+      },
+      {
+        "_key": "track-19",
+        "_type": "track",
+        "duration": "4:42",
+        "position": "19",
+        "title": "The Abyss"
+      },
+      {
+        "_key": "track-20",
+        "_type": "track",
+        "duration": "3:51",
+        "position": "20",
+        "title": "Red Terror"
+      },
+      {
+        "_key": "track-21",
+        "_type": "track",
+        "duration": "4:57",
+        "position": "21",
+        "title": "Without a Warning"
+      },
+      {
+        "_key": "track-22",
+        "_type": "track",
+        "duration": "4:51",
+        "position": "22",
+        "title": "Hurry Up Tomorrow"
+      }
+    ],
+    "tracklistEdition": "Complete Edition vinyl 2LP, 22 tracks, same sequence as standard 22-track streaming album",
+    "tracklistSource": "https://xo.store/products/hurry-up-tomorrow-complete-edition-2lp",
+    "vinylEdition": "2025 Complete Edition · Black 2LP · European pressing 00602475692584",
+    "vinylPhotos": [
+      {
+        "alt": "Photograph of the sealed Hurry Up Tomorrow Complete Edition European 2LP sleeve, with 22-track black vinyl hype sticker",
+        "credit": "Discogs community release images, release 33933588 (individual photographer unspecified)",
+        "sourceUrl": "https://www.discogs.com/release/33933588-The-Weeknd-Hurry-Up-Tomorrow",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/1845495073984322917cb2e0b797ea00dfe90a6a-600x595.jpg"
+      },
+      {
+        "alt": "Photograph of the black vinyl Disc 1 Side A center label of Hurry Up Tomorrow Complete Edition European 2LP",
+        "credit": "Discogs community release images, release 33933588 (individual photographer unspecified)",
+        "sourceUrl": "https://www.discogs.com/release/33933588-The-Weeknd-Hurry-Up-Tomorrow",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/6c7ca80d041bd08a0900ed16c94caabac20ae22e-588x600.jpg"
+      }
+    ],
+    "year": 2025
+  },
+  {
+    "_id": "vinyl-02",
+    "artist": "Pink Floyd",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/b2e53fd1f82fa9d7cda4ab6ed70b05b987c4bd8c-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Rock",
+    "note": "Play both sides in order and listen for the sound effects that connect one song to the next.",
+    "rank": 2,
+    "slug": "pink-floyd-the-dark-side-of-the-moon",
+    "spotifyUrl": "https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv",
+    "title": "The Dark Side of the Moon",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "1:04",
+        "position": "1",
+        "title": "Speak to Me"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "2:49",
+        "position": "2",
+        "title": "Breathe (In the Air)"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "3:36",
+        "position": "3",
+        "title": "On the Run"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "7:02",
+        "position": "4",
+        "title": "Time"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "4:44",
+        "position": "5",
+        "title": "The Great Gig in the Sky"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "6:20",
+        "position": "6",
+        "title": "Money"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "7:52",
+        "position": "7",
+        "title": "Us and Them"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:25",
+        "position": "8",
+        "title": "Any Colour You Like"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:50",
+        "position": "9",
+        "title": "Brain Damage"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "2:06",
+        "position": "10",
+        "title": "Eclipse"
+      }
+    ],
+    "tracklistEdition": "Standard 10-track studio album; streaming timing, same sequence as reference 2016 vinyl",
+    "tracklistSource": "https://open.spotify.com/embed/album/4LH4d3cOWNNsVw41Gqt2kv",
+    "vinylEdition": "2016 remaster · 180g black LP · Pink Floyd Records PFRLP8",
+    "vinylPhotos": [
+      {
+        "alt": "Photograph of The Dark Side of the Moon 2016 black vinyl record, open gatefold sleeve, posters and stickers",
+        "credit": "Turntable Lab product photography",
+        "sourceUrl": "https://www.turntablelab.com/products/pink-floyd-the-dark-side-of-the-moon-180g-vinyl-lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/f78d945736e07b8ee8cb1378475d6b44607e9a8d-1800x1800.jpg"
+      }
+    ],
+    "year": 1973
+  },
+  {
+    "_id": "vinyl-03",
+    "artist": "Mac Miller",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/e5faca73e821872fea0b8b7184f0e1e58e0f7565-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Hip-Hop/Rap",
+    "note": "Follow the warm bass lines and relaxed grooves, then stay with the more reflective closing tracks.",
+    "rank": 3,
+    "slug": "mac-miller-swimming",
+    "spotifyUrl": "https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk",
+    "title": "Swimming",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "2:41",
+        "position": "1",
+        "title": "Come Back to Earth"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "4:05",
+        "position": "2",
+        "title": "Hurt Feelings"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "4:48",
+        "position": "3",
+        "title": "What's the Use?"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:35",
+        "position": "4",
+        "title": "Perfecto"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "5:45",
+        "position": "5",
+        "title": "Self Care"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "4:10",
+        "position": "6",
+        "title": "Wings"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:47",
+        "position": "7",
+        "title": "Ladders"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "4:31",
+        "position": "8",
+        "title": "Small Worlds"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:30",
+        "position": "9",
+        "title": "Conversation Pt. 1"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "3:57",
+        "position": "10",
+        "title": "Dunno"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "5:45",
+        "position": "11",
+        "title": "Jet Fuel"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "5:47",
+        "position": "12",
+        "title": "2009"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "5:12",
+        "position": "13",
+        "title": "So It Goes"
+      }
+    ],
+    "tracklistEdition": "Standard 13-track album; same sequence as standard vinyl",
+    "tracklistSource": "https://open.spotify.com/embed/album/5wtE5aLX5r7jOosmPhJhhk",
+    "vinylEdition": "2018 standard edition · Black 2LP · Warner Records",
+    "vinylPhotos": [
+      {
+        "alt": "Photograph of Swimming standard edition sleeve, printed insert and two black vinyl records",
+        "credit": "Turntable Lab product photography",
+        "sourceUrl": "https://www.turntablelab.com/products/mac-miller-swimming-vinyl-2lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/234b6936d5952c707f404732d6efd976cb98f768-2736x2736.jpg"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "_id": "vinyl-04",
+    "artist": "Sade",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/9f871077a97949ccd4f0b6d60b5aee273889e6d8-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "R&B/Soul",
+    "note": "Keep the room quiet and let the spacious arrangements, low bass, and intimate vocals unfold.",
+    "rank": 4,
+    "slug": "sade-love-deluxe",
+    "spotifyUrl": "https://open.spotify.com/album/6Y8lHGQqTmbE6Hhj1mMCkX",
+    "title": "Love Deluxe",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "7:20",
+        "position": "1",
+        "title": "No Ordinary Love"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "5:09",
+        "position": "2",
+        "title": "Feel No Pain"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "3:48",
+        "position": "3",
+        "title": "I Couldn't Love You More"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:38",
+        "position": "4",
+        "title": "Like a Tattoo"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "5:50",
+        "position": "5",
+        "title": "Kiss of Life"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "5:32",
+        "position": "6",
+        "title": "Cherish the Day"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:33",
+        "position": "7",
+        "title": "Pearls"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "5:24",
+        "position": "8",
+        "title": "Bullet Proof Soul"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "4:24",
+        "position": "9",
+        "title": "Mermaid"
+      }
+    ],
+    "tracklistEdition": "Standard 9-track album; same sequence as 2024 vinyl",
+    "tracklistSource": "https://open.spotify.com/embed/album/6Y8lHGQqTmbE6Hhj1mMCkX",
+    "vinylEdition": "2024 half-speed master · 180g black LP · Epic",
+    "vinylPhotos": [
+      {
+        "alt": "Photograph of Love Deluxe 2024 sleeve, printed insert and black vinyl record",
+        "credit": "Turntable Lab product photography",
+        "sourceUrl": "https://www.turntablelab.com/products/sade-love-deluxe-vinyl-lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/73efe635827a7f0346709b1444b5014f43a924d8-1800x1800.jpg"
+      }
+    ],
+    "year": 1992
+  },
+  {
+    "_id": "vinyl-05",
+    "artist": "Hermanos Gutiérrez",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/3393fb50aeb7d11d3d497df6449d5d07cdfcc3e3-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Worldwide",
+    "note": "Listen for the guitar melodies drifting through reverb and the rhythms moving beneath them.",
+    "rank": 5,
+    "slug": "hermanos-gutierrez-sonido-cosmico",
+    "spotifyUrl": "https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t",
+    "title": "Sonido Cósmico",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:12",
+        "position": "A1",
+        "title": "Lágrimas Negras"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:08",
+        "position": "A2",
+        "title": "Low Sun"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "2:37",
+        "position": "A3",
+        "title": "Cumbia Lunar"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:32",
+        "position": "A4",
+        "title": "Abuelita"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "3:03",
+        "position": "A5",
+        "title": "El Fantasma"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "4:38",
+        "position": "A6",
+        "title": "It’s All In Your Mind"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "3:43",
+        "position": "B1",
+        "title": "Sonido Cósmico"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:14",
+        "position": "B2",
+        "title": "Barrio Hustle"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:01",
+        "position": "B3",
+        "title": "Until We Meet Again"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "4:12",
+        "position": "B4",
+        "title": "Los Navegantes"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "3:08",
+        "position": "B5",
+        "title": "Luz Y Sombra"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "2:36",
+        "position": "B6",
+        "title": "Misterio Verde"
+      }
+    ],
+    "tracklistEdition": "Standard 12-track album, LP sides A/B verified by Easy Eye Sound; durations verified on photographed sleeve and Spotify.",
+    "tracklistSource": "https://easyeyesound.com/products/sonido-cosmico-vinyl",
+    "vinylEdition": "2024 signed edition · Blue/green LP",
+    "vinylPhotos": [
+      {
+        "alt": "Sonido Cósmico signed vinyl sleeve photographed against patterned fabric",
+        "credit": "emerSongs / eBay listing 318563851819",
+        "sourceUrl": "https://www.ebay.com/itm/318563851819",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/b3628ccc47357041d511d1bd13f4188559011389-1600x1200.webp"
+      },
+      {
+        "alt": "Sonido Cósmico physical sleeve back with twelve-track list",
+        "credit": "emerSongs / eBay listing 318563851819",
+        "sourceUrl": "https://www.ebay.com/itm/318563851819",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/f6e5ff2af7347a8c95dd576d835408f6f17996ae-1600x1200.webp"
+      },
+      {
+        "alt": "Sonido Cósmico blue and green vinyl disc with Easy Eye Sound label",
+        "credit": "Product photograph supplied in emerSongs / eBay listing 318563851819",
+        "sourceUrl": "https://www.ebay.com/itm/318563851819",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/f50a61914759d5b3cb54942e0071542a8004c7ab-599x599.webp"
+      }
+    ],
+    "year": 2024
+  },
+  {
+    "_id": "vinyl-06",
+    "artist": "Hermanos Gutiérrez",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/4147510b9bf4f5b42575f5bc97e4590576eed741-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Instrumental",
+    "note": "Give the two guitars room to breathe and follow the way their phrases answer each other.",
+    "rank": 6,
+    "slug": "hermanos-gutierrez-el-bueno-y-el-malo",
+    "spotifyUrl": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb",
+    "title": "El Bueno y el Malo",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:25",
+        "position": "A1",
+        "title": "El Bueno Y El Malo"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:54",
+        "position": "A2",
+        "title": "Hermosa Drive"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "3:49",
+        "position": "A3",
+        "title": "Los Chicos Tristes"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:28",
+        "position": "A4",
+        "title": "Thunderbird"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "2:56",
+        "position": "A5",
+        "title": "Cielo Grande"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:21",
+        "position": "B1",
+        "title": "Tres Hermanos (Featuring Dan Auerbach)"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "2:48",
+        "position": "B2",
+        "title": "Pueblo Man"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:58",
+        "position": "B3",
+        "title": "La Verdad"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "2:36",
+        "position": "B4",
+        "title": "Los Amantes"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "3:26",
+        "position": "B5",
+        "title": "Dorado Valley"
+      }
+    ],
+    "tracklistEdition": "Standard 2022 black LP, 10 tracks; Easy Eye Sound sides A/B.",
+    "tracklistSource": "https://easyeyesound.com/products/el-bueno-y-el-malo-vinyl",
+    "vinylEdition": "Black LP with sleeve and insert · Exact pressing unconfirmed",
+    "vinylPhotos": [
+      {
+        "alt": "El Bueno Y El Malo black record, sleeve and insert photographed on a wooden table",
+        "credit": "Seller photo / Ricardo listing 1246229122",
+        "sourceUrl": "https://www.ricardo.ch/de/a/hermanos-gutierrez-'el-bueno-y-el-malo'-vinyl-1246229122/",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/197e17fa9a37ecf585743cabab1b9d2c3c159613-982x750.jpg"
+      }
+    ],
+    "year": 2022
+  },
+  {
+    "_id": "vinyl-07",
+    "artist": "Men I Trust",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/a241f6f48e9773005620d200ceefb84b4e540629-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Pop",
+    "note": "Let the soft vocals and rounded bass lines set the pace, with space to notice the small guitar details.",
+    "rank": 7,
+    "slug": "men-i-trust-oncle-jazz",
+    "spotifyUrl": "https://open.spotify.com/album/4W4gNYa4tt3t8V6FmONWEK",
+    "title": "Oncle Jazz",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "0:57",
+        "position": "A1",
+        "title": "Oncle Jazz"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:26",
+        "position": "A2",
+        "title": "Norton Commander (album v)"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "3:17",
+        "position": "A3",
+        "title": "Days Go By"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:48",
+        "position": "A4",
+        "title": "Tailwhip (album v)"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "3:31",
+        "position": "A5",
+        "title": "Found Me"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:39",
+        "position": "A6",
+        "title": "Numb (album v)"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "3:09",
+        "position": "B1",
+        "title": "Say Can You Hear (album v)"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:08",
+        "position": "B2",
+        "title": "All Night"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:26",
+        "position": "B3",
+        "title": "I Hope To Be Around (album v)"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "2:51",
+        "position": "B4",
+        "title": "Dorian"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "3:42",
+        "position": "B5",
+        "title": "Pines"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "2:19",
+        "position": "B6",
+        "title": "Slap Pie"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "0:51",
+        "position": "C1",
+        "title": "Fiero GT"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "duration": "3:45",
+        "position": "C2",
+        "title": "Seven (album v)"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "duration": "3:35",
+        "position": "C3",
+        "title": "Show Me How (album v)"
+      },
+      {
+        "_key": "track-16",
+        "_type": "track",
+        "duration": "2:37",
+        "position": "C4",
+        "title": "Alright"
+      },
+      {
+        "_key": "track-17",
+        "_type": "track",
+        "duration": "3:05",
+        "position": "C5",
+        "title": "You Deserve This (album v)"
+      },
+      {
+        "_key": "track-18",
+        "_type": "track",
+        "duration": "3:26",
+        "position": "C6",
+        "title": "Pierre"
+      },
+      {
+        "_key": "track-19",
+        "_type": "track",
+        "duration": "3:14",
+        "position": "D1",
+        "title": "Air"
+      },
+      {
+        "_key": "track-20",
+        "_type": "track",
+        "duration": "3:32",
+        "position": "D2",
+        "title": "Porcelain"
+      },
+      {
+        "_key": "track-21",
+        "_type": "track",
+        "duration": "1:19",
+        "position": "D3",
+        "title": "Poodle Of Mud"
+      },
+      {
+        "_key": "track-22",
+        "_type": "track",
+        "duration": "3:18",
+        "position": "D4",
+        "title": "Something In Water"
+      },
+      {
+        "_key": "track-23",
+        "_type": "track",
+        "duration": "4:00",
+        "position": "D5",
+        "title": "Tailwhip Revisited"
+      },
+      {
+        "_key": "track-24",
+        "_type": "track",
+        "duration": "1:14",
+        "position": "D (hidden track)",
+        "title": "Poplar Tree"
+      }
+    ],
+    "tracklistEdition": "Oncle Jazz Double LP (Black), 23 songs plus hidden track Poplar Tree. Ordered tracks from artist Bandcamp; sides from physical sleeve back. Digital titles retain “album v” qualifier.",
+    "tracklistSource": "https://menitrust.bandcamp.com/album/oncle-jazz",
+    "vinylEdition": "Artist Bandcamp edition · Black 2LP",
+    "vinylPhotos": [
+      {
+        "alt": "Oncle Jazz physical sleeve front on a display stand",
+        "credit": "Men I Trust / artist Bandcamp",
+        "sourceUrl": "https://menitrust.bandcamp.com/album/oncle-jazz",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/3481307a90289a7cc8ca441b4d795940637f9e14-1200x900.jpg"
+      },
+      {
+        "alt": "Oncle Jazz physical sleeve back with handwritten side tracklists",
+        "credit": "Men I Trust / artist Bandcamp",
+        "sourceUrl": "https://menitrust.bandcamp.com/album/oncle-jazz",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/923de9d7fa18336aa6fc9f25a236174ace64e1a1-1200x900.jpg"
+      },
+      {
+        "alt": "Oncle Jazz black vinyl disc, side A",
+        "credit": "Men I Trust / artist Bandcamp",
+        "sourceUrl": "https://menitrust.bandcamp.com/album/oncle-jazz",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/d52abbd9a04ce202da96687a08181c2258a4efe1-1200x1200.jpg"
+      }
+    ],
+    "year": 2019
+  },
+  {
+    "_id": "vinyl-08",
+    "artist": "M83",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/93a4683eb82ab84f91ad1a22f670b5ad6cd618ee-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Electronic",
+    "note": "Listen for the bright synths, saxophone lines, and soft-focus pop melodies as the arrangements shift.",
+    "rank": 8,
+    "slug": "m83-junk",
+    "spotifyUrl": "https://open.spotify.com/album/2NDfGFApzXItl4hNOj1M4k",
+    "title": "Junk",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:37",
+        "position": "1",
+        "title": "Do It, Try It"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:55",
+        "position": "2",
+        "title": "Go!"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "4:49",
+        "position": "3",
+        "title": "Walkway Blues"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:54",
+        "position": "4",
+        "title": "Bibi the Dog"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "2:26",
+        "position": "5",
+        "title": "Moon Crystal"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "4:40",
+        "position": "6",
+        "title": "For the Kids"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "6:03",
+        "position": "7",
+        "title": "Solitude"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "2:24",
+        "position": "8",
+        "title": "The Wizard"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "4:17",
+        "position": "9",
+        "title": "Laser Gun"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "4:21",
+        "position": "10",
+        "title": "Road Blaster"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "2:05",
+        "position": "11",
+        "title": "Tension"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "3:24",
+        "position": "12",
+        "title": "Atlantique Sud"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "4:09",
+        "position": "13",
+        "title": "Time Wind"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "duration": "1:35",
+        "position": "14",
+        "title": "Ludivine"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "duration": "4:00",
+        "position": "15",
+        "title": "Sunday Night 1987"
+      }
+    ],
+    "tracklistEdition": "Standard 15-track album; Mute LP is 180g double vinyl with etched D side. Ordered titles and durations verified directly from official Spotify embed metadata; Mute label list cross-checks order.",
+    "tracklistSource": "https://open.spotify.com/embed/album/2NDfGFApzXItl4hNOj1M4k",
+    "vinylEdition": "2016 Mute edition · 180g black 2LP · Etched side D",
+    "vinylPhotos": [
+      {
+        "alt": "M83 Junk physical sleeve and two black vinyl records photographed on white background",
+        "credit": "Turntable Lab product photography",
+        "sourceUrl": "https://www.turntablelab.com/products/m83-junk-180g-vinyl-2lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/b2ca3ac5c17d97fc89f2f0c4e6c42f9b68d7aa85-2000x2000.jpg"
+      }
+    ],
+    "year": 2016
+  },
+  {
+    "_id": "vinyl-09",
+    "artist": "The Weeknd",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/204e707e8aa86e7d84e55aea3fe20296fc437092-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "R&B/Soul",
+    "note": "Play the original sequence after dark and follow the spacious beats, layered vocals, and changes in atmosphere.",
+    "rank": 9,
+    "slug": "the-weeknd-house-of-balloons",
+    "spotifyUrl": "https://open.spotify.com/album/2YHC9dhR9vMTdCeY0T1FOs",
+    "title": "House of Balloons",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "4:07",
+        "position": "1",
+        "title": "High For This"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:16",
+        "position": "2",
+        "title": "What You Need"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "6:45",
+        "position": "3",
+        "title": "House Of Balloons / Glass Table Girls"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "5:12",
+        "position": "4",
+        "title": "The Morning"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "5:23",
+        "position": "5",
+        "title": "Wicked Games"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "7:39",
+        "position": "6",
+        "title": "The Party & The After Party"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:55",
+        "position": "7",
+        "title": "Coming Down"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "6:03",
+        "position": "8",
+        "title": "Loft Music"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "5:40",
+        "position": "9",
+        "title": "The Knowing"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "4:18",
+        "position": "10",
+        "title": "Twenty Eight"
+      }
+    ],
+    "tracklistEdition": "House Of Balloons — digital streaming edition",
+    "tracklistSource": "https://open.spotify.com/embed/album/2YHC9dhR9vMTdCeY0T1FOs",
+    "vinylEdition": "2022 Decade edition · Black 2LP · Photographed pressing: 9 tracks; streaming edition includes bonus track Twenty Eight",
+    "vinylPhotos": [
+      {
+        "alt": "Physical House Of Balloons Decade Collector's Edition sleeve and black record, Side 01A",
+        "credit": "Plaid Room Records — photographed used record listing",
+        "sourceUrl": "https://www.plaidroomrecords.com/products/the-weeknd-house-of-balloons-22353862",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/1241bf5475eceb735bccb0beabb4cd3f463516c2-2048x1363.jpg"
+      },
+      {
+        "alt": "Physical House Of Balloons Decade Collector's Edition back sleeve and record Side 02B",
+        "credit": "Plaid Room Records — photographed used record listing",
+        "sourceUrl": "https://www.plaidroomrecords.com/products/the-weeknd-house-of-balloons-22353862",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/8039cc0aedaf3ff8da175cc016fc497a3259bed1-2048x1363.jpg"
+      }
+    ],
+    "year": 2011
+  },
+  {
+    "_id": "vinyl-10",
+    "artist": "Tory Lanez",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/fd4a9c9b08f1f8e851b4dbfa4ef7e20e26b0f2ad-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "R&B/Soul",
+    "note": "Follow the glossy synth lines and steady pop rhythms, with room to notice the layered vocal melodies.",
+    "rank": 10,
+    "slug": "tory-lanez-alone-at-prom",
+    "spotifyUrl": "https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2",
+    "title": "Alone at Prom",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:11",
+        "position": "1",
+        "title": "Enchanted Waterfall"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:32",
+        "position": "2",
+        "title": "Pink Dolphin Sunset (feat. Tee)"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "1:55",
+        "position": "3",
+        "title": "Midnight's Interlude"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:46",
+        "position": "4",
+        "title": "The Color Violet"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "2:31",
+        "position": "5",
+        "title": "Lavender Sunflower"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "4:14",
+        "position": "6",
+        "title": "Ballad of a Badman"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "3:13",
+        "position": "7",
+        "title": "Lady Of Namek"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:31",
+        "position": "8",
+        "title": "Pluto’s Last Comet"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "2:21",
+        "position": "9",
+        "title": "‘87 Stingray"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "3:23",
+        "position": "10",
+        "title": "Hurt From Mercury"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "4:18",
+        "position": "11",
+        "title": "Last Kiss Of Nebulon"
+      }
+    ],
+    "tracklistEdition": "Alone At Prom — digital streaming edition",
+    "tracklistSource": "https://open.spotify.com/embed/album/5Gm2XKBgnlzd6qTi7LE1z2",
+    "vinylEdition": "Deluxe numbered orange 2LP · Photographed pressing: 21 tracks; digital tracklist above: standard 11-track edition",
+    "vinylPhotos": [
+      {
+        "alt": "Alone at Prom Deluxe gatefold sleeve with two orange vinyl records",
+        "credit": "Tory Lanez Official Store / One Umbrella Records",
+        "sourceUrl": "https://torylanezstore.com/products/alone-at-prom-deluxe-gatefold-orange-2lp-vinyl",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/9336361e9d789150973fbbb7a651b997f176f22a-3000x3000.png"
+      },
+      {
+        "alt": "Two orange Alone at Prom Deluxe records with white bow-tie labels",
+        "credit": "Tory Lanez Official Store / One Umbrella Records",
+        "sourceUrl": "https://torylanezstore.com/products/alone-at-prom-deluxe-gatefold-orange-2lp-vinyl",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/f4a3a62e9080705dd4a840c8f279d425b0fc024f-3000x3000.png"
+      },
+      {
+        "alt": "Opened Alone at Prom Deluxe gatefold sleeve showing dance and disco-ball artwork",
+        "credit": "Tory Lanez Official Store / One Umbrella Records",
+        "sourceUrl": "https://torylanezstore.com/products/alone-at-prom-deluxe-gatefold-orange-2lp-vinyl",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/5694f640d61c6ea7c42f3004bf21e134666a2ad9-3000x3000.png"
+      }
+    ],
+    "year": 2021
+  },
+  {
+    "_id": "vinyl-11",
+    "artist": "Moby",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/edf55e442586f657b6d37a2a885ddce587d3046c-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Pop",
+    "note": "Listen for the sampled voices meeting electronic rhythms, then stay with the quieter instrumental passages.",
+    "rank": 11,
+    "slug": "moby-play-deluxe-edition",
+    "spotifyUrl": "https://open.spotify.com/album/3wRlU7n3LULfjL0e9RtB5Q",
+    "title": "Play (Deluxe Edition)",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:29",
+        "position": "1",
+        "title": "Honey"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:59",
+        "position": "2",
+        "title": "Find My Baby"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "4:01",
+        "position": "3",
+        "title": "Porcelain"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "4:24",
+        "position": "4",
+        "title": "Why Does My Heart Feel So Bad?"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "3:49",
+        "position": "5",
+        "title": "South Side"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:00",
+        "position": "6",
+        "title": "Rushing"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "3:36",
+        "position": "7",
+        "title": "Bodyrock"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "4:13",
+        "position": "8",
+        "title": "Natural Blues"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:37",
+        "position": "9",
+        "title": "Machete"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "1:02",
+        "position": "10",
+        "title": "7"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "3:45",
+        "position": "11",
+        "title": "Run On"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "1:34",
+        "position": "12",
+        "title": "Down Slow"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "4:18",
+        "position": "13",
+        "title": "If Things Were Perfect"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "duration": "3:25",
+        "position": "14",
+        "title": "Everloving"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "duration": "4:48",
+        "position": "15",
+        "title": "Inside"
+      },
+      {
+        "_key": "track-16",
+        "_type": "track",
+        "duration": "2:09",
+        "position": "16",
+        "title": "Guitar Flute & String"
+      },
+      {
+        "_key": "track-17",
+        "_type": "track",
+        "duration": "4:18",
+        "position": "17",
+        "title": "The Sky Is Broken"
+      },
+      {
+        "_key": "track-18",
+        "_type": "track",
+        "duration": "3:38",
+        "position": "18",
+        "title": "My Weakness"
+      },
+      {
+        "_key": "track-19",
+        "_type": "track",
+        "duration": "3:26",
+        "position": "19",
+        "title": "Flower"
+      },
+      {
+        "_key": "track-20",
+        "_type": "track",
+        "duration": "5:03",
+        "position": "20",
+        "title": "Sunday"
+      },
+      {
+        "_key": "track-21",
+        "_type": "track",
+        "duration": "6:42",
+        "position": "21",
+        "title": "Memory Gospel"
+      },
+      {
+        "_key": "track-22",
+        "_type": "track",
+        "duration": "6:02",
+        "position": "22",
+        "title": "Whispering Wind"
+      },
+      {
+        "_key": "track-23",
+        "_type": "track",
+        "duration": "5:58",
+        "position": "23",
+        "title": "Summer"
+      },
+      {
+        "_key": "track-24",
+        "_type": "track",
+        "duration": "4:08",
+        "position": "24",
+        "title": "Spirit"
+      },
+      {
+        "_key": "track-25",
+        "_type": "track",
+        "duration": "6:16",
+        "position": "25",
+        "title": "Flying Foxes"
+      },
+      {
+        "_key": "track-26",
+        "_type": "track",
+        "duration": "6:49",
+        "position": "26",
+        "title": "Sunspot"
+      },
+      {
+        "_key": "track-27",
+        "_type": "track",
+        "duration": "4:47",
+        "position": "27",
+        "title": "Flying Over the Dateline"
+      },
+      {
+        "_key": "track-28",
+        "_type": "track",
+        "duration": "7:05",
+        "position": "28",
+        "title": "Running"
+      },
+      {
+        "_key": "track-29",
+        "_type": "track",
+        "duration": "4:20",
+        "position": "29",
+        "title": "The Sun Never Stops Setting"
+      }
+    ],
+    "tracklistEdition": "Play & Play: B Sides — verified expanded digital edition, 29 tracks (18 original Play tracks + 11 B-sides). Exact Spotify title Play (Deluxe Edition) could not be verified.",
+    "tracklistSource": "https://open.spotify.com/embed/album/3wRlU7n3LULfjL0e9RtB5Q",
+    "vinylEdition": "2016 Mute/BMG reissue · 180g 2LP · STUMM172 · Photographed pressing: 18 tracks; digital tracklist above also includes Play: B Sides",
+    "vinylPhotos": [
+      {
+        "alt": "Physical Moby Play sleeve with 180g reissue hype sticker",
+        "credit": "Paranoise record store / release scans supplied on its product page",
+        "sourceUrl": "https://paranoise.store/products/moby-play-2xlp-album-ltd-re-180-mint-m-1",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/8ba386aed389d5317bd108ed59b980d5fe761450-597x600.jpg"
+      },
+      {
+        "alt": "Back of physical Moby Play standard 2LP sleeve",
+        "credit": "Paranoise record store / release scans supplied on its product page",
+        "sourceUrl": "https://paranoise.store/products/moby-play-2xlp-album-ltd-re-180-mint-m-1",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/822bbd086421ca06070ca1eb08c45aab106df8f2-595x599.jpg"
+      },
+      {
+        "alt": "Moby Play physical vinyl record close-up, Side A label with STUMM172",
+        "credit": "Paranoise record store / release scans supplied on its product page",
+        "sourceUrl": "https://paranoise.store/products/moby-play-2xlp-album-ltd-re-180-mint-m-1",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/09e8a97569a1881710ac2d3b177b7bf67d25f3ce-589x600.jpg"
+      }
+    ],
+    "year": 1999
+  },
+  {
+    "_id": "vinyl-12",
+    "artist": "MGMT",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/51db97ab9c0ed6cbc6d78dd4ec122e073d3eec09-600x600.jpg",
+    "favoriteTrack": null,
+    "genre": "Alternative",
+    "note": "Listen for the dark synth textures and bright pop hooks, then follow the quieter turns between them.",
+    "rank": 12,
+    "slug": "mgmt-little-dark-age",
+    "spotifyUrl": "https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H",
+    "title": "Little Dark Age",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "4:38",
+        "position": "1",
+        "title": "She Works Out Too Much"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "4:59",
+        "position": "2",
+        "title": "Little Dark Age"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "4:23",
+        "position": "3",
+        "title": "When You Die"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "4:49",
+        "position": "4",
+        "title": "Me and Michael"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "4:29",
+        "position": "5",
+        "title": "TSLAMP"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:52",
+        "position": "6",
+        "title": "James"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:44",
+        "position": "7",
+        "title": "Days That Got Away"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "4:20",
+        "position": "8",
+        "title": "One Thing Left to Try"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:30",
+        "position": "9",
+        "title": "When You're Small"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "4:13",
+        "position": "10",
+        "title": "Hand It Over"
+      }
+    ],
+    "tracklistEdition": "Little Dark Age — digital streaming edition",
+    "tracklistSource": "https://open.spotify.com/embed/album/7GjVWG39IOj4viyWplJV4H",
+    "vinylEdition": "2018 US Columbia edition · Black 2LP · Reference pressing",
+    "vinylPhotos": [
+      {
+        "alt": "Physical MGMT Little Dark Age front sleeve, printed Side A inner sleeve and black Columbia record",
+        "credit": "Plaid Room Records — photographed used record listing",
+        "sourceUrl": "https://www.plaidroomrecords.com/products/mgmt-little-dark-age-11555061",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/2865988f8fe7326d768cd244a5e3e79847172489-2048x1363.jpg"
+      },
+      {
+        "alt": "Physical MGMT Little Dark Age back sleeve and black Columbia record, Side D",
+        "credit": "Plaid Room Records — photographed used record listing",
+        "sourceUrl": "https://www.plaidroomrecords.com/products/mgmt-little-dark-age-11555061",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/e53902f6e4aa1ffd5587db4aae707a24bcd77ad3-2048x1363.jpg"
+      }
+    ],
+    "year": 2018
+  },
+  {
+    "_id": "vinyl-13",
+    "artist": "Peggy Gou",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/0de56d8964f8bb208ac2fa3b3f574f576bcf41b4-1200x1200.jpg",
+    "favoriteTrack": null,
+    "genre": "Electronic",
+    "note": "Follow the house grooves, bright synth lines and unhurried moments between them. A record for turning the living room into your own dance floor.",
+    "rank": 13,
+    "slug": "peggy-gou-i-hear-you",
+    "spotifyUrl": "https://open.spotify.com/album/5pnr4GOQkBuGuYPeiLw1T6",
+    "title": "I Hear You",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "1:57",
+        "position": "1",
+        "title": "Your Art"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "4:58",
+        "position": "2",
+        "title": "Back To One"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "2:56",
+        "position": "3",
+        "title": "I Believe In Love Again"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:53",
+        "position": "4",
+        "title": "All That"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "3:51",
+        "position": "5",
+        "title": "(It Goes Like) Nanana - Edit"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "5:20",
+        "position": "6",
+        "title": "Lobster Telephone"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "2:37",
+        "position": "7",
+        "title": "Seoulsi Peggygou (서울시페기구)"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "5:32",
+        "position": "8",
+        "title": "I Go"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:41",
+        "position": "9",
+        "title": "Purple Horizon"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "5:32",
+        "position": "10",
+        "title": "1+1=11"
+      }
+    ],
+    "tracklistEdition": "Original 2024 album, standard 10-track digital edition (Spotify titles)",
+    "tracklistSource": "https://open.spotify.com/embed/album/5pnr4GOQkBuGuYPeiLw1T6?theme=0",
+    "vinylEdition": "Blood Records exclusive neon-orange LP with alternate spot-gloss artwork; 500 hand-numbered copies; 11 June 2024",
+    "vinylPhotos": [
+      {
+        "alt": "Peggy Gou's neon-orange I Hear You vinyl playing on a turntable beside its alternate orange-pink sleeve",
+        "credit": "Blood Records product video still; photographer not stated",
+        "sourceUrl": "https://blood-records.co.uk/products/peggy",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/dc4d62da43db64d27fcd6bccdc30505899d9cf43-1280x720.jpg"
+      }
+    ],
+    "year": 2024
+  },
+  {
+    "_id": "vinyl-14",
+    "artist": "Bad Bunny",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/f904c96a5fff2fc3c9ca3674f2a6db76dd9a09bc-300x300.jpg",
+    "favoriteTrack": null,
+    "genre": "Latin",
+    "note": "Listen for the shifts between plena, salsa and reggaetón, and the voices that bring Puerto Rico into the room.",
+    "rank": 14,
+    "slug": "bad-bunny-debi-tirar-mas-fotos",
+    "spotifyUrl": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb",
+    "title": "DeBÍ TiRAR MáS FOToS",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "position": "1",
+        "title": "NUEVAYoL"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "position": "2",
+        "title": "VOY A LLeVARTE PA PR"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "position": "3",
+        "title": "BAILE INoLVIDABLE"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "position": "4",
+        "title": "PERFuMITO NUEVO"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "position": "5",
+        "title": "WELTiTA"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "position": "6",
+        "title": "VeLDÁ"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "position": "7",
+        "title": "EL CLúB"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "position": "8",
+        "title": "KETU TeCRÉ"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "position": "9",
+        "title": "BOKeTE"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "position": "10",
+        "title": "KLOuFRENS"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "position": "11",
+        "title": "TURiSTA"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "position": "12",
+        "title": "CAFé CON RON"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "position": "13",
+        "title": "PIToRRO DE COCO"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "position": "14",
+        "title": "LO QUE LE PASÓ A HAWAii"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "position": "15",
+        "title": "EoO"
+      },
+      {
+        "_key": "track-16",
+        "_type": "track",
+        "position": "16",
+        "title": "DtMF"
+      },
+      {
+        "_key": "track-17",
+        "_type": "track",
+        "position": "17",
+        "title": "LA MuDANZA"
+      }
+    ],
+    "tracklistEdition": "Original 2025 standard 17-track digital album",
+    "tracklistSource": "https://open.spotify.com/embed/album/5K79FLRUCSysQnVESLcTdb",
+    "vinylEdition": "Opaque-white 2LP reissue (owner identifies white pressing in source comments; disc is not visible in photo)",
+    "vinylPhotos": [
+      {
+        "alt": "An owner holding the physical Debí Tirar Más Fotos vinyl sleeve against a cream wall; the photographed cover catches reflected light",
+        "credit": "Reddit user u/Some_Rich_6885, r/vinyl collector post",
+        "sourceUrl": "https://www.reddit.com/r/vinyl/comments/1raogqa/i_finally_got_my_hands_on_the_bad_bunny_vinyland/",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/c6629efeb801e2706cafcf0ea00b9f3e8fefcff2-828x1472.jpg"
+      }
+    ],
+    "year": 2025
+  },
+  {
+    "_id": "vinyl-15",
+    "artist": "Santana",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/283466965bd39064011dd4239957936ac6f3946c-450x441.jpg",
+    "favoriteTrack": null,
+    "genre": "Rock",
+    "note": "Give the guitar room to sing. Follow the Latin percussion, guest voices and changes in rhythm across the album.",
+    "rank": 15,
+    "slug": "santana-supernatural",
+    "spotifyUrl": "https://open.spotify.com/album/1n12Kl9IoHSk65OcZDutSH",
+    "title": "Supernatural",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "position": "1",
+        "title": "(Da Le) Yaleo"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "position": "2",
+        "title": "Love of My Life"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "position": "3",
+        "title": "Put Your Lights On"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "position": "4",
+        "title": "Africa Bamba"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "position": "5",
+        "title": "Smooth"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "position": "6",
+        "title": "Do You Like the Way"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "position": "7",
+        "title": "Maria Maria"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "position": "8",
+        "title": "Migra"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "position": "9",
+        "title": "Corazon Espinado"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "position": "10",
+        "title": "Wishing It Was"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "position": "11",
+        "title": "El Farol"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "position": "12",
+        "title": "Primavera"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "position": "13",
+        "title": "The Calling"
+      }
+    ],
+    "tracklistEdition": "Original standard 13-track album / Sony 2LP tracklist",
+    "tracklistSource": "https://vinyl.sonymusic.com/products/santana-supernatural",
+    "vinylEdition": "Double vinyl LP in gatefold sleeve with digital download, UPC 190758900018 (Rollin' Records listed edition)",
+    "vinylPhotos": [
+      {
+        "alt": "A sealed physical copy of Santana's Supernatural vinyl sleeve standing on a wooden tabletop in a record shop",
+        "credit": "Rollin' Records product photograph; photographer not stated",
+        "sourceUrl": "https://rollinrecs.com/products/santana-supernatural",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/3fd218aeb706c8077cd7d665792d4e171b140c19-5712x4284.jpg"
+      }
+    ],
+    "year": 1999
+  },
+  {
+    "_id": "vinyl-16",
+    "artist": "Jungle",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/e8c758dc56bb3cd67182222ac960bed18a559d8b-640x640.jpg",
+    "favoriteTrack": null,
+    "genre": "Funk/Soul",
+    "note": "Let the bass lines, falsetto vocals and steady funk rhythms carry you from the opening track to the last.",
+    "rank": 16,
+    "slug": "jungle-jungle",
+    "spotifyUrl": "https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr",
+    "title": "Jungle",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "3:16",
+        "position": "1",
+        "title": "The Heat"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "3:04",
+        "position": "2",
+        "title": "Accelerate"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "3:01",
+        "position": "3",
+        "title": "Busy Earnin'"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "3:12",
+        "position": "4",
+        "title": "Platoon"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "2:53",
+        "position": "5",
+        "title": "Drops"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "3:33",
+        "position": "6",
+        "title": "Time"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "1:47",
+        "position": "7",
+        "title": "Smoking Pixels"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "3:15",
+        "position": "8",
+        "title": "Julia"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "3:02",
+        "position": "9",
+        "title": "Crumbler"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "3:28",
+        "position": "10",
+        "title": "Son Of A Gun"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "4:16",
+        "position": "11",
+        "title": "Lucky I Got What I Want"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "4:19",
+        "position": "12",
+        "title": "Lemonade Lake"
+      }
+    ],
+    "tracklistEdition": "Standard 12-track digital/Spotify album (2014). Vinyl may contain additional unlisted audio; this is the verified digital tracklist.",
+    "tracklistSource": "https://shop.xlrecordings.com/release/347140-jungle-jungle?lang=de",
+    "vinylEdition": "XL Recordings, UK 2014 black LP, gatefold sleeve and printed inner sleeve; retailer describes UK LP.",
+    "vinylPhotos": [
+      {
+        "alt": "Jungle black vinyl LP displayed with its black and gold album jacket and printed lyric inner sleeve.",
+        "credit": "Djungel & Jazz product photograph; original photographer unspecified",
+        "sourceUrl": "https://djungelochjazz.se/products/jungle-jungle",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/6edefaab6f1ff5a325a40ccbf2a15dc8df349999-599x399.jpg"
+      }
+    ],
+    "year": 2014
+  },
+  {
+    "_id": "vinyl-17",
+    "artist": "Jamie Jones",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/dbe519313385bef12fff1eb647f3033886f9bad3-1200x1200.jpg",
+    "favoriteTrack": null,
+    "genre": "Electronic",
+    "note": "Settle into the rolling house grooves and notice how each small change shifts the energy of the room.",
+    "rank": 17,
+    "slug": "jamie-jones-tracks-from-the-crypt",
+    "spotifyUrl": "https://open.spotify.com/album/7sKVcvyDGR6M5iVfOFJUIE",
+    "title": "Tracks from the Crypt",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "5:45",
+        "position": "1",
+        "title": "Somewhere"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "4:21",
+        "position": "2",
+        "title": "City at Night"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "6:15",
+        "position": "3",
+        "title": "Tonight in Tokyo"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "7:16",
+        "position": "4",
+        "title": "Special Effect"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "5:29",
+        "position": "5",
+        "title": "Mari 2D Underground"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "7:47",
+        "position": "6",
+        "title": "Our Time in Liberty"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:27",
+        "position": "7",
+        "title": "Stems From Hackney"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "5:25",
+        "position": "8",
+        "title": "Frequencies"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "5:19",
+        "position": "9",
+        "title": "Over Each Other"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "5:45",
+        "position": "10",
+        "title": "Paradise"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "6:12",
+        "position": "11",
+        "title": "Havanna Good Time"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "3:24",
+        "position": "12",
+        "title": "The Lows"
+      }
+    ],
+    "tracklistEdition": "12-track digital album verified from the official Crosstown Rebels Bandcamp. Bandcamp spells track 11 Havanna Good Time; vinyl listings use Havana Good Time. The CRMLP018 vinyl has 10 tracks in a different order and omits Our Time in Liberty and Over Each Other.",
+    "tracklistSource": "https://crosstownrebels.bandcamp.com/album/tracks-from-the-crypt",
+    "vinylEdition": "Crosstown Rebels CRMLP018, 2012 2LP, Tracks From The Crypt: Lost Classics From The Vaults 2007–2012. Photograph shows the actual physical sleeve at an angle; no disc visible.",
+    "vinylPhotos": [
+      {
+        "alt": "Actual cream-colored Jamie Jones Tracks From The Crypt vinyl jacket photographed at an angle, with colored circular artwork and visible cardboard edges.",
+        "credit": "Turntable Lab product photograph; photographer unspecified",
+        "sourceUrl": "https://www.turntablelab.com/products/jamie-jones-tracks-from-the-crypt-2lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/9f9a8b6b7bcabd582b034647fd4694c70fb63fe5-500x500.jpg"
+      }
+    ],
+    "year": 2012
+  },
+  {
+    "_id": "vinyl-18",
+    "artist": "Lana Del Rey",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/34ab46752330287e4ae810aa323cb25ce9aca6c4-640x640.jpg",
+    "favoriteTrack": null,
+    "genre": "Alternative",
+    "note": "Listen for the strings, slow tempos and spacious vocals. Leave room for the quiet passages to linger.",
+    "rank": 18,
+    "slug": "lana-del-rey-honeymoon",
+    "spotifyUrl": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw",
+    "title": "Honeymoon",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "5:50",
+        "position": "1",
+        "title": "Honeymoon"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "4:50",
+        "position": "2",
+        "title": "Music To Watch Boys To"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "4:50",
+        "position": "3",
+        "title": "Terrence Loves You"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "4:40",
+        "position": "4",
+        "title": "God Knows I Tried"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "4:17",
+        "position": "5",
+        "title": "High By The Beach"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "4:55",
+        "position": "6",
+        "title": "Freak"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "4:55",
+        "position": "7",
+        "title": "Art Deco"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "1:21",
+        "position": "8",
+        "title": "Burnt Norton - Interlude"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "5:23",
+        "position": "9",
+        "title": "Religion"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "4:41",
+        "position": "10",
+        "title": "Salvatore"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "6:05",
+        "position": "11",
+        "title": "The Blackest Day"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "4:55",
+        "position": "12",
+        "title": "24"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "duration": "5:23",
+        "position": "13",
+        "title": "Swan Song"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "duration": "3:01",
+        "position": "14",
+        "title": "Don't Let Me Be Misunderstood"
+      }
+    ],
+    "tracklistEdition": "Standard 14-track Spotify album (2015); black 2LP has the same songs and order, with sides A1–A3, B1–B3, C1–C4, D1–D4.",
+    "tracklistSource": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw",
+    "vinylEdition": "180g black vinyl 2LP with gatefold jacket, printed inner sleeves and lyric/photo booklet; Turntable Lab retailer edition.",
+    "vinylPhotos": [
+      {
+        "alt": "Honeymoon physical vinyl package opened with two black records, gatefold jacket, printed inner sleeves and a photo booklet spread in front.",
+        "credit": "Turntable Lab product photograph",
+        "sourceUrl": "https://www.turntablelab.com/products/lana-del-rey-honeymoon-180g-vinyl-2lp",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/28a285e7b585be29ce4bb16eae4ee8484dd8aaf4-1800x1800.jpg"
+      }
+    ],
+    "year": 2015
+  },
+  {
+    "_id": "vinyl-19",
+    "artist": "Gorillaz",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/115d2a946a6c73e8b30be79368c3077f02e2b505-440x440.jpg",
+    "favoriteTrack": null,
+    "genre": "Alternative",
+    "note": "Follow the guest voices and changes in style through the album, with the interludes linking one scene to the next.",
+    "rank": 19,
+    "slug": "gorillaz-humanz",
+    "spotifyUrl": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE",
+    "title": "Humanz",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "position": "1",
+        "title": "Intro: I Switched My Robot Off"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "position": "2",
+        "title": "Ascension (feat. Vince Staples)"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "position": "3",
+        "title": "Strobelite (feat. Peven Everett)"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "position": "4",
+        "title": "Saturnz Barz (feat. Popcaan)"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "position": "5",
+        "title": "Momentz (feat. De La Soul)"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "position": "6",
+        "title": "Interlude: The Non-Conformist Oath"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "position": "7",
+        "title": "Submission (feat. Danny Brown & Kelela)"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "position": "8",
+        "title": "Charger (feat. Grace Jones)"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "position": "9",
+        "title": "Interlude: Elevator Going Up"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "position": "10",
+        "title": "Andromeda (feat. DRAM)"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "position": "11",
+        "title": "Busted and Blue"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "position": "12",
+        "title": "Interlude: Talk Radio"
+      },
+      {
+        "_key": "track-13",
+        "_type": "track",
+        "position": "13",
+        "title": "Carnival (feat. Anthony Hamilton)"
+      },
+      {
+        "_key": "track-14",
+        "_type": "track",
+        "position": "14",
+        "title": "Let Me Out (feat. Mavis Staples & Pusha T)"
+      },
+      {
+        "_key": "track-15",
+        "_type": "track",
+        "position": "15",
+        "title": "Interlude: Penthouse"
+      },
+      {
+        "_key": "track-16",
+        "_type": "track",
+        "position": "16",
+        "title": "Sex Murder Party (feat. Jamie Principle & Zebra Katz)"
+      },
+      {
+        "_key": "track-17",
+        "_type": "track",
+        "position": "17",
+        "title": "She's My Collar (feat. Kali Uchis)"
+      },
+      {
+        "_key": "track-18",
+        "_type": "track",
+        "position": "18",
+        "title": "Interlude: The Elephant"
+      },
+      {
+        "_key": "track-19",
+        "_type": "track",
+        "position": "19",
+        "title": "Hallelujah Money (feat. Benjamin Clementine)"
+      },
+      {
+        "_key": "track-20",
+        "_type": "track",
+        "position": "20",
+        "title": "We Got the Power (feat. Jehnny Beth)"
+      }
+    ],
+    "tracklistEdition": "Standard 2017 album / black 2LP: 20 tracks including interludes. Official standard-edition smartlink currently points to Spotify Humanz (Deluxe), which includes additional bonus tracks beyond this vinyl tracklist.",
+    "tracklistSource": "https://usstore.gorillaz.com/products/humanz-lp",
+    "vinylEdition": "Humanz, standard heavyweight black 2LP in gatefold sleeve, Parlophone. Seller photo visually inspected: open gatefold, inner sleeves and two physical black records on wooden table. Exact matrix/pressing country not verified.",
+    "vinylPhotos": [
+      {
+        "alt": "A real Humanz gatefold sleeve, inner sleeves and two black vinyl records arranged on a wooden table.",
+        "credit": "eBay seller incognito_19; photograph from listing 186405737570",
+        "sourceUrl": "https://www.ebay.co.uk/itm/186405737570",
+        "url": "https://cdn.sanity.io/images/ovzh9fkm/production/6a14dd4c796defca096897df0d2cedd14a10a257-395x400.jpg"
+      }
+    ],
+    "year": 2017
+  },
+  {
+    "_id": "vinyl-20",
+    "artist": "Lil Cobaine",
+    "cover": "https://cdn.sanity.io/images/ovzh9fkm/production/1ac5395737ab3c7cade06029458b4f3d7f12005d-300x300.webp",
+    "favoriteTrack": null,
+    "genre": "Hip-Hop/Rap",
+    "note": "A short sequence of melodic rap and R&B songs. Play the full album and let its intimate scale bring the vocals into focus.",
+    "rank": 20,
+    "slug": "lil-cobaine-human-made",
+    "spotifyUrl": "https://open.spotify.com/album/6fXHy8oJ6lDstRTTFFKOnW",
+    "title": "HUMAN MADE",
+    "tracklist": [
+      {
+        "_key": "track-1",
+        "_type": "track",
+        "duration": "1:47",
+        "position": "1",
+        "title": "SINNER"
+      },
+      {
+        "_key": "track-2",
+        "_type": "track",
+        "duration": "2:08",
+        "position": "2",
+        "title": "GONE GIRL"
+      },
+      {
+        "_key": "track-3",
+        "_type": "track",
+        "duration": "2:01",
+        "position": "3",
+        "title": "BAG 4 MY BABY"
+      },
+      {
+        "_key": "track-4",
+        "_type": "track",
+        "duration": "1:58",
+        "position": "4",
+        "title": "PINOT GIRLS"
+      },
+      {
+        "_key": "track-5",
+        "_type": "track",
+        "duration": "2:08",
+        "position": "5",
+        "title": "10 PIECE"
+      },
+      {
+        "_key": "track-6",
+        "_type": "track",
+        "duration": "1:28",
+        "position": "6",
+        "title": "SHORT CIRCUIT"
+      },
+      {
+        "_key": "track-7",
+        "_type": "track",
+        "duration": "2:16",
+        "position": "7",
+        "title": "CUP & HEART"
+      },
+      {
+        "_key": "track-8",
+        "_type": "track",
+        "duration": "2:58",
+        "position": "8",
+        "title": "JET SET TRASH"
+      },
+      {
+        "_key": "track-9",
+        "_type": "track",
+        "duration": "1:28",
+        "position": "9",
+        "title": "PRADA ME UNMIXED"
+      },
+      {
+        "_key": "track-10",
+        "_type": "track",
+        "duration": "1:40",
+        "position": "10",
+        "title": "LOWLIFE"
+      },
+      {
+        "_key": "track-11",
+        "_type": "track",
+        "duration": "1:56",
+        "position": "11",
+        "title": "SURPRISE YOU"
+      },
+      {
+        "_key": "track-12",
+        "_type": "track",
+        "duration": "2:09",
+        "position": "12",
+        "title": "U"
+      }
+    ],
+    "tracklistEdition": "Original 2022 digital album; 12 tracks, released October 31, 2022. This is separate from the October 6, 2021 single Human Made.",
+    "tracklistSource": "https://open.spotify.com/album/6fXHy8oJ6lDstRTTFFKOnW",
+    "vinylEdition": "No verified vinyl pressing or physical photograph available. This entry features the 2022 digital album.",
+    "vinylPhotos": [],
+    "year": 2022
+  }
+]

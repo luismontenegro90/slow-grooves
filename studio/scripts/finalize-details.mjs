@@ -1,0 +1,11 @@
+import {writeFile} from 'node:fs/promises';
+import {getCliClient} from 'sanity/cli';
+const client=getCliClient({apiVersion:'2026-06-09'}).withConfig({useCdn:false});
+await client.patch('vinyl-01').unset(['vinylPhotos[_key=="photo-3"]']).commit();
+const editions={1:'2025 Complete Edition · Black 2LP · European pressing 00602475692584',2:'2016 remaster · 180g black LP · Pink Floyd Records PFRLP8',3:'2018 standard edition · Black 2LP · Warner Records',4:'2024 half-speed master · 180g black LP · Epic',5:'2024 signed edition · Blue/green LP',6:'Black LP with sleeve and insert · Exact pressing unconfirmed',7:'Artist Bandcamp edition · Black 2LP',8:'2016 Mute edition · 180g black 2LP · Etched side D',9:'2022 Decade edition · Black 2LP · Photographed pressing: 9 tracks; streaming edition includes bonus track Twenty Eight',10:'Deluxe numbered orange 2LP · Photographed pressing: 21 tracks; digital tracklist above: standard 11-track edition',11:'2016 Mute/BMG reissue · 180g 2LP · STUMM172 · Photographed pressing: 18 tracks; digital tracklist above also includes Play: B Sides',12:'2018 US Columbia edition · Black 2LP · Reference pressing'};
+let transaction=client.transaction();for(const [rank,vinylEdition] of Object.entries(editions))transaction=transaction.patch(`vinyl-${String(rank).padStart(2,'0')}`,p=>p.set({vinylEdition}));await transaction.commit();
+const records=await client.fetch('*[_type == "vinyl" && !(_id in path("drafts.**"))] | order(rank asc)[0...20]{_id,"slug":slug.current,rank,title,artist,year,genre,note,favoriteTrack,spotifyUrl,tracklist,tracklistEdition,tracklistSource,vinylEdition,"vinylPhotos":vinylPhotos[]{"url":asset->url,alt,credit,sourceUrl},"cover":cover.asset->url}');
+for(const r of records){if(!r.tracklist?.length||!r.vinylPhotos?.length||!/^https:\/\/open.spotify.com\/album\/[A-Za-z0-9]{22}$/.test(r.spotifyUrl||''))throw Error(`Incomplete album: ${r.title}`);}
+if(records.length!==12)throw Error('Expected 12 albums');
+await writeFile('../src/data/records.json',JSON.stringify(records,null,2)+'\n');
+console.log(JSON.stringify({albums:records.length,tracks:records.reduce((s,r)=>s+r.tracklist.length,0),photos:records.reduce((s,r)=>s+r.vinylPhotos.length,0),verified:true}));
